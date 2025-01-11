@@ -1,0 +1,2131 @@
+{
+    "goals": [
+      {
+        "goal_id": "1",
+        "goal_name": "Run a Marathon",
+        "goal_description": "Training for a marathon over the next 6 months.",
+        "due_date": "2025-06-15",
+        "tasks": [
+          {
+            "task_id": "1",
+            "task_name": "Run 3 times a week",
+            "task_description": "Run 3 times per week, starting with 2 miles per session.",
+            "progress": "50%",
+            "due_date": "2025-01-30"
+          },
+          {
+            "task_id": "2",
+            "task_name": "Increase distance by 0.5 miles each week",
+            "task_description": "Increase the distance of your runs by 0.5 miles every week.",
+            "progress": "20%",
+            "due_date": "2025-06-01"
+          }
+        ]
+      },
+      {
+        "goal_id": "2",
+        "goal_name": "Save Money for Vacation",
+        "goal_description": "Saving $2000 for a vacation within the next 6 months.",
+        "due_date": "2025-06-30",
+        "tasks": [
+          {
+            "task_id": "1",
+            "task_name": "Save $334 per month",
+            "task_description": "Put aside $334 every month until the goal is achieved.",
+            "progress": "40%",
+            "due_date": "2025-06-30"
+          },
+          {
+            "task_id": "2",
+            "task_name": "Track savings weekly",
+            "task_description": "Check your savings progress every week to ensure you're on track.",
+            "progress": "50%",
+            "due_date": "2025-06-30"
+          }
+        ]
+      },
+      {
+        "goal_id": "3",
+        "goal_name": "Lose Weight",
+        "goal_description": "Losing 10kg in the next 6 months through diet and exercise.",
+        "due_date": "2025-06-30",
+        "tasks": [
+          {
+            "task_id": "1",
+            "task_name": "Exercise 3 times a week",
+            "task_description": "Do cardio exercises like walking, running, or cycling for 30 minutes, 3 times a week.",
+            "progress": "30%",
+            "due_date": "2025-06-30"
+          },
+          {
+            "task_id": "2",
+            "task_name": "Track food intake",
+            "task_description": "Log your meals daily and keep track of calories.",
+            "progress": "60%",
+            "due_date": "2025-06-30"
+          }
+        ]
+      },
+      {
+        "goal_id": "goal4",
+        "goal_name": "Start a Side Hustle",
+        "goal_description": "Launch an online store.",
+        "tasks": [
+          {
+            "task_id": "task1",
+            "task_name": "Research profitable niches",
+            "progress": "20%",
+            "due_date": "2025-02-15"
+          }
+        ]
+      },
+      {
+        "goal_id": "goal5",
+        "goal_name": "Improve Cooking Skills",
+        "goal_description": "Learn 5 new recipes per month.",
+        "tasks": [
+          {
+            "task_id": "task1",
+            "task_name": "Try 5 new recipes",
+            "progress": "80%",
+            "due_date": "2025-01-31"
+          }
+        ]
+      },
+      {
+        "goal_id": "goal6",
+        "goal_name": "Volunteer",
+        "goal_description": "Spend time volunteering at a local shelter.",
+        "tasks": [
+          {
+            "task_id": "task1",
+            "task_name": "Sign up for 3 volunteering events",
+            "progress": "50%",
+            "due_date": "2025-03-01"
+          }
+        ]
+      },
+      {
+        "goal_id": "goal7",
+        "goal_name": "Travel to 5 New Cities",
+        "goal_description": "Visit and explore 5 cities you've never been to.",
+        "tasks": [
+          {
+            "task_id": "task1",
+            "task_name": "Plan the first trip",
+            "progress": "60%",
+            "due_date": "2025-02-28"
+          }
+        ]
+      },
+      {
+        "goal_id": "goal8",
+        "goal_name": "Learn to Meditate",
+        "goal_description": "Develop a daily meditation habit.",
+        "tasks": [
+          {
+            "task_id": "task1",
+            "task_name": "Meditate for 10 minutes daily",
+            "progress": "70%",
+            "due_date": "2025-05-01"
+          }
+        ]
+      },
+      {
+        "goal_id": "9",
+        "goal_name": "Learn Python Programming",
+        "goal_description": "Learn Python in the next 3 months to build small applications.",
+        "due_date": "2025-04-30",
+        "tasks": [
+          {
+            "task_id": "1",
+            "task_name": "Complete Python course on Codecademy",
+            "task_description": "Complete the basic Python course available on Codecademy.",
+            "progress": "40%",
+            "due_date": "2025-02-15"
+          },
+          {
+            "task_id": "2",
+            "task_name": "Build 3 small Python projects",
+            "task_description": "Build small projects like a calculator, to-do list, and number guesser game.",
+            "progress": "10%",
+            "due_date": "2025-04-30"
+          }
+        ]
+      },
+      {
+        "goal_id": "10",
+        "goal_name": "Read 12 Books",
+        "goal_description": "Read one book per month for the next 12 months.",
+        "due_date": "2025-12-31",
+        "tasks": [
+          {
+            "task_id": "1",
+            "task_name": "Read 30 pages per day",
+            "task_description": "Read at least 30 pages each day to finish your books.",
+            "progress": "25%",
+            "due_date": "2025-01-31"
+          },
+          {
+            "task_id": "2",
+            "task_name": "Finish first book by January 31",
+            "task_description": "Finish reading the first book by the end of January.",
+            "progress": "50%",
+            "due_date": "2025-01-31"
+          }
+        ]
+      },
+        {
+            "goal_id": "11",
+            "goal_name": "Write a Book",
+            "goal_description": "Write a 200-page novel in 12 months.",
+            "due_date": "2025-12-31",
+            "tasks": [
+              {
+                "task_id": "1",
+                "task_name": "Write 500 words daily",
+                "task_description": "Write 500 words every day towards the book.",
+                "progress": "15%",
+                "due_date": "2025-12-31"
+              },
+              {
+                "task_id": "12",
+                "task_name": "Outline chapters",
+                "task_description": "Outline the key events for each chapter of the book.",
+                "progress": "25%",
+                "due_date": "2025-02-28"
+              },
+              {
+                "task_id": "3",
+                "task_name": "Edit first draft",
+                "task_description": "Review and edit the first draft of the book.",
+                "progress": "0%",
+                "due_date": "2025-06-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "13",
+            "goal_name": "Improve Public Speaking",
+            "goal_description": "Practice public speaking and deliver a speech in 3 months.",
+            "due_date": "2025-04-30",
+            "tasks": [
+              {
+                "task_id": "1",
+                "task_name": "Join a public speaking club",
+                "task_description": "Join a club like Toastmasters to practice speaking.",
+                "progress": "50%",
+                "due_date": "2025-02-15"
+              },
+              {
+                "task_id": "2",
+                "task_name": "Give a speech at a local event",
+                "task_description": "Deliver a short speech at a community or local event.",
+                "progress": "0%",
+                "due_date": "2025-04-30"
+              },
+              {
+                "task_id": "3",
+                "task_name": "Record self while speaking",
+                "task_description": "Record yourself speaking to identify areas for improvement.",
+                "progress": "30%",
+                "due_date": "2025-03-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal14",
+            "goal_name": "Declutter Home",
+            "goal_description": "Organize and declutter every room in the house.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Declutter bedroom",
+                "progress": "40%",
+                "due_date": "2025-01-31"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal15",
+            "goal_name": "Write a Novel",
+            "goal_description": "Complete a 50,000-word novel.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Write 500 words daily",
+                "progress": "15%",
+                "due_date": "2025-11-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal16",
+            "goal_name": "Master Photography",
+            "goal_description": "Learn to take professional-level photographs.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Complete a photography course",
+                "progress": "30%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal17",
+            "goal_name": "Develop a Mobile App",
+            "goal_description": "Build and launch your first mobile app.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Define app features",
+                "progress": "50%",
+                "due_date": "2025-02-28"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal18",
+            "goal_name": "Strengthen Relationships",
+            "goal_description": "Spend quality time with family and friends.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Plan 1 family outing each month",
+                "progress": "20%",
+                "due_date": "2025-12-31"
+              }
+            ]
+        },
+          {
+            "goal_id": "19",
+            "goal_name": "Start a Blog",
+            "goal_description": "Create and write a blog with weekly posts for 6 months.",
+            "due_date": "2025-06-30",
+            "tasks": [
+              {
+                "task_id": "1",
+                "task_name": "Set up blog platform",
+                "task_description": "Choose a blogging platform (e.g., WordPress, Medium, etc.).",
+                "progress": "100%",
+                "due_date": "2025-01-15"
+              },
+              {
+                "task_id": "2",
+                "task_name": "Publish first 4 blog posts",
+                "task_description": "Write and publish your first four posts for the blog.",
+                "progress": "0%",
+                "due_date": "2025-03-30"
+              },
+              {
+                "task_id": "3",
+                "task_name": "Promote blog on social media",
+                "task_description": "Share your blog on platforms like Twitter, LinkedIn, and Instagram.",
+                "progress": "0%",
+                "due_date": "2025-06-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal20",
+            "goal_name": "Plant a Garden",
+            "goal_description": "Create a vegetable garden in your backyard.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Prepare the soil",
+                "progress": "50%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "21",
+            "goal_name": "Learn Spanish",
+            "goal_description": "Learn conversational Spanish in 6 months.",
+            "due_date": "2025-06-30",
+            "tasks": [
+              {
+                "task_id": "1",
+                "task_name": "Complete 1 lesson per day on Duolingo",
+                "task_description": "Use Duolingo to complete one Spanish lesson each day.",
+                "progress": "40%",
+                "due_date": "2025-06-30"
+              },
+              {
+                "task_id": "2",
+                "task_name": "Watch Spanish TV shows with subtitles",
+                "task_description": "Watch Spanish TV shows or movies with English subtitles to improve listening.",
+                "progress": "10%",
+                "due_date": "2025-06-30"
+              },
+              {
+                "task_id": "3",
+                "task_name": "Speak with a language exchange partner",
+                "task_description": "Find a language partner and converse in Spanish once a week.",
+                "progress": "0%",
+                "due_date": "2025-06-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal22",
+            "goal_name": "Learn a Musical Instrument",
+            "goal_description": "Learn to play the guitar.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Practice 30 minutes daily",
+                "progress": "10%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal23",
+            "goal_name": "Build a Morning Routine",
+            "goal_description": "Create a consistent and productive morning routine.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Wake up at 6 AM daily",
+                "progress": "30%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Meditate for 10 minutes",
+                "progress": "20%",
+                "due_date": "2025-03-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal24",
+            "goal_name": "Learn to Code in Kotlin",
+            "goal_description": "Master the basics of Kotlin programming language.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Complete 5 tutorials on Kotlin basics",
+                "progress": "60%",
+                "due_date": "2025-06-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal25",
+            "goal_name": "Attend a Networking Event",
+            "goal_description": "Connect with professionals in your industry.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Register for an event",
+                "progress": "100%",
+                "due_date": "2025-01-20"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Prepare an elevator pitch",
+                "progress": "50%",
+                "due_date": "2025-01-25"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal26",
+            "goal_name": "Adopt a Pet",
+            "goal_description": "Welcome a furry friend into your home.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Visit a local shelter",
+                "progress": "25%",
+                "due_date": "2025-04-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal27",
+            "goal_name": "Learn Graphic Design",
+            "goal_description": "Develop skills in graphic design using Adobe tools.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Complete 10 design projects",
+                "progress": "40%",
+                "due_date": "2025-09-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal28",
+            "goal_name": "Run a Half Marathon",
+            "goal_description": "Train for and complete a half marathon.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Follow a 12-week training plan",
+                "progress": "50%",
+                "due_date": "2025-05-10"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal29",
+            "goal_name": "Cook an International Dish",
+            "goal_description": "Learn to prepare a dish from another cuisine.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Find a recipe",
+                "progress": "100%",
+                "due_date": "2025-01-10"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Buy the ingredients",
+                "progress": "50%",
+                "due_date": "2025-01-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal30",
+            "goal_name": "Improve Flexibility",
+            "goal_description": "Incorporate stretching into your daily routine.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Stretch for 15 minutes daily",
+                "progress": "30%",
+                "due_date": "2025-03-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal31",
+            "goal_name": "Host a Dinner Party",
+            "goal_description": "Plan and host a dinner party for friends and family.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Create a guest list",
+                "progress": "100%",
+                "due_date": "2025-02-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal32",
+            "goal_name": "Create a YouTube Channel",
+            "goal_description": "Launch a channel and upload your first video.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Choose a niche",
+                "progress": "80%",
+                "due_date": "2025-01-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal33",
+            "goal_name": "Learn a New Dance Style",
+            "goal_description": "Take a class to learn salsa dancing.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Attend 10 dance classes",
+                "progress": "40%",
+                "due_date": "2025-05-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal34",
+            "goal_name": "Donate to Charity",
+            "goal_description": "Contribute to a cause you care about.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Research charities",
+                "progress": "60%",
+                "due_date": "2025-02-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal35",
+            "goal_name": "Learn a Card Game",
+            "goal_description": "Master the rules of poker.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Practice weekly with friends",
+                "progress": "50%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal36",
+            "goal_name": "Visit a National Park",
+            "goal_description": "Explore a national park and enjoy nature.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Plan the trip",
+                "progress": "70%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal37",
+            "goal_name": "Learn First Aid",
+            "goal_description": "Get certified in first aid and CPR.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Complete a certification course",
+                "progress": "20%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal38",
+            "goal_name": "Decorate Your Home",
+            "goal_description": "Redecorate the living room with a new theme.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Choose a color scheme",
+                "progress": "100%",
+                "due_date": "2025-01-20"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Buy furniture and decor",
+                "progress": "50%",
+                "due_date": "2025-02-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal39",
+            "goal_name": "Learn to Knit",
+            "goal_description": "Make a scarf as your first knitting project.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Watch beginner tutorials",
+                "progress": "40%",
+                "due_date": "2025-03-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal40",
+            "goal_name": "Complete a Puzzle",
+            "goal_description": "Finish a 1,000-piece jigsaw puzzle.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Work on the puzzle 3 times a week",
+                "progress": "60%",
+                "due_date": "2025-02-28"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal41",
+            "goal_name": "Explore a Hobby",
+            "goal_description": "Try painting and complete a landscape artwork.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Gather painting supplies",
+                "progress": "100%",
+                "due_date": "2025-01-25"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal42",
+            "goal_name": "Write a Gratitude Journal",
+            "goal_description": "Write daily entries in a gratitude journal.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Journal every evening",
+                "progress": "75%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal43",
+            "goal_name": "Start a Garden",
+            "goal_description": "Create a small vegetable and flower garden.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Select plants and seeds",
+                "progress": "70%",
+                "due_date": "2025-04-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Prepare the soil",
+                "progress": "40%",
+                "due_date": "2025-04-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal44",
+            "goal_name": "Start a Side Business",
+            "goal_description": "Create an online shop for handmade crafts.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Research market trends",
+                "progress": "80%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Set up a website",
+                "progress": "30%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal45",
+            "goal_name": "Learn to Swim",
+            "goal_description": "Take swimming lessons and improve your skills.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Enroll in a class",
+                "progress": "100%",
+                "due_date": "2025-01-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Practice weekly",
+                "progress": "50%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal46",
+            "goal_name": "Take a Road Trip",
+            "goal_description": "Plan a scenic road trip with friends.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Choose a destination",
+                "progress": "90%",
+                "due_date": "2025-02-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Book accommodations",
+                "progress": "70%",
+                "due_date": "2025-02-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal48",
+            "goal_name": "Volunteer at a Shelter",
+            "goal_description": "Give back by volunteering time to help those in need.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Sign up for a shift",
+                "progress": "100%",
+                "due_date": "2025-01-25"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Participate in weekly volunteering",
+                "progress": "30%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal49",
+            "goal_name": "Organize a Fundraiser",
+            "goal_description": "Raise funds for a charitable cause.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Choose a cause",
+                "progress": "100%",
+                "due_date": "2025-02-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Plan the event details",
+                "progress": "60%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal50",
+            "goal_name": "Improve Financial Literacy",
+            "goal_description": "Learn the basics of personal finance and investing.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Read 3 books on finance",
+                "progress": "40%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal51",
+            "goal_name": "Learn a Programming Language",
+            "goal_description": "Get proficient in Python programming.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Complete an online course",
+                "progress": "70%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal52",
+            "goal_name": "Try a New Workout Routine",
+            "goal_description": "Switch to a yoga-based fitness plan.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Attend 10 yoga classes",
+                "progress": "50%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal53",
+            "goal_name": "Learn to Bake",
+            "goal_description": "Bake a variety of bread and desserts.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Complete 5 baking recipes",
+                "progress": "60%",
+                "due_date": "2025-03-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal54",
+            "goal_name": "Travel to a New Country",
+            "goal_description": "Explore a foreign culture and city.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Research destinations",
+                "progress": "70%",
+                "due_date": "2025-08-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal55",
+            "goal_name": "Learn Photography",
+            "goal_description": "Understand camera settings and composition techniques.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Take 20 high-quality photos",
+                "progress": "30%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal56",
+            "goal_name": "Participate in a Charity Run",
+            "goal_description": "Run a 5k for a charitable cause.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Train for the run",
+                "progress": "40%",
+                "due_date": "2025-05-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal57",
+            "goal_name": "Reduce Screen Time",
+            "goal_description": "Spend less time on social media and devices.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Set daily limits on apps",
+                "progress": "50%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal58",
+            "goal_name": "Complete a Home Renovation Project",
+            "goal_description": "Redesign the kitchen with new cabinets.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Hire a contractor",
+                "progress": "100%",
+                "due_date": "2025-01-20"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Select materials",
+                "progress": "60%",
+                "due_date": "2025-02-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal59",
+            "goal_name": "Learn Sign Language",
+            "goal_description": "Communicate using basic ASL.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Master 50 signs",
+                "progress": "20%",
+                "due_date": "2025-07-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal60",
+            "goal_name": "Organize Your Closet",
+            "goal_description": "Declutter and organize all clothing.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Donate unused clothes",
+                "progress": "80%",
+                "due_date": "2025-01-31"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal61",
+            "goal_name": "Learn to Cook 10 New Recipes",
+            "goal_description": "Expand culinary skills with diverse recipes.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Find 10 recipes online",
+                "progress": "50%",
+                "due_date": "2025-04-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Cook one new recipe each week",
+                "progress": "10%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal62",
+            "goal_name": "Plant a Vegetable Garden",
+            "goal_description": "Grow your own fresh vegetables.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Prepare the soil",
+                "progress": "20%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Plant seeds for 5 vegetables",
+                "progress": "10%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal63",
+            "goal_name": "Learn to Swim",
+            "goal_description": "Develop swimming skills and confidence.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Book swimming lessons",
+                "progress": "0%",
+                "due_date": "2025-02-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Practice basic strokes weekly",
+                "progress": "0%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal64",
+            "goal_name": "Create a Digital Portfolio",
+            "goal_description": "Showcase your skills and achievements online.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Choose a website builder",
+                "progress": "10%",
+                "due_date": "2025-03-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Design a homepage",
+                "progress": "0%",
+                "due_date": "2025-03-20"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal65",
+            "goal_name": "Save for a Vacation",
+            "goal_description": "Set aside $3000 for a dream trip.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Open a savings account",
+                "progress": "100%",
+                "due_date": "2025-01-10"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Save $500 per month",
+                "progress": "10%",
+                "due_date": "2025-07-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal66",
+            "goal_name": "Save for a Vacation",
+            "goal_description": "Set aside $3000 for a dream trip.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Open a savings account",
+                "progress": "100%",
+                "due_date": "2025-01-10"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Save $500 per month",
+                "progress": "10%",
+                "due_date": "2025-07-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal67",
+            "goal_name": "Learn Basic Carpentry",
+            "goal_description": "Create simple wooden furniture or repairs.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Learn to use basic carpentry tools",
+                "progress": "0%",
+                "due_date": "2025-02-28"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Build a small wooden shelf",
+                "progress": "0%",
+                "due_date": "2025-04-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal68",
+            "goal_name": "Host a Dinner Party",
+            "goal_description": "Plan and execute a memorable dinner event.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Create a menu and prepare dishes",
+                "progress": "30%",
+                "due_date": "2025-03-10"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Invite and accommodate 5+ guests",
+                "progress": "0%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal69",
+            "goal_name": "Learn Speed Reading",
+            "goal_description": "Enhance reading speed without losing comprehension.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Complete a speed reading course",
+                "progress": "20%",
+                "due_date": "2025-03-20"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Read 3 books with the new technique",
+                "progress": "0%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal70",
+            "goal_name": "Learn Chess Strategy",
+            "goal_description": "Improve chess skills through strategic learning.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Study 5 classic chess games",
+                "progress": "0%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Play 10 matches online",
+                "progress": "0%",
+                "due_date": "2025-05-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal71",
+            "goal_name": "Learn Calligraphy",
+            "goal_description": "Master beautiful penmanship using a calligraphy pen.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Practice alphabets and strokes daily",
+                "progress": "20%",
+                "due_date": "2025-04-10"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Create 3 calligraphy art pieces",
+                "progress": "0%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal72",
+            "goal_name": "Create a Meditation Space",
+            "goal_description": "Design a peaceful corner for daily mindfulness.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Buy cushions and calming decor",
+                "progress": "50%",
+                "due_date": "2025-02-28"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Use the space daily for 30 days",
+                "progress": "10%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal73",
+            "goal_name": "Learn a New Instrument",
+            "goal_description": "Pick up and learn basics of an instrument like the ukulele.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Practice 3 chords daily for 2 weeks",
+                "progress": "10%",
+                "due_date": "2025-03-10"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Learn 3 simple songs",
+                "progress": "0%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal74",
+            "goal_name": "Create a Scrapbook",
+            "goal_description": "Document memories creatively with pictures and notes.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Collect photos and materials",
+                "progress": "50%",
+                "due_date": "2025-02-28"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Assemble and design 10 pages",
+                "progress": "10%",
+                "due_date": "2025-04-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal75",
+            "goal_name": "Build a Custom PC",
+            "goal_description": "Assemble your own high-performance computer.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Research and select components",
+                "progress": "50%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Assemble and test the PC",
+                "progress": "0%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal76",
+            "goal_name": "Create a Personal Budget",
+            "goal_description": "Track income and expenses to manage finances better.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "List all income sources and expenses",
+                "progress": "100%",
+                "due_date": "2025-01-20"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Set monthly savings targets",
+                "progress": "20%",
+                "due_date": "2025-02-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal77",
+            "goal_name": "Volunteer at a Local Shelter",
+            "goal_description": "Contribute your time to help those in need.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Find a shelter nearby",
+                "progress": "50%",
+                "due_date": "2025-02-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Commit to 4 hours per week",
+                "progress": "10%",
+                "due_date": "2025-06-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal78",
+            "goal_name": "Learn to Sew",
+            "goal_description": "Create your own clothing and crafts.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Buy a beginner sewing kit",
+                "progress": "100%",
+                "due_date": "2025-01-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Complete 3 beginner sewing projects",
+                "progress": "10%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal79",
+            "goal_name": "Learn Calligraphy",
+            "goal_description": "Master the art of beautiful handwriting.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Buy calligraphy pens and paper",
+                "progress": "100%",
+                "due_date": "2025-02-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Practice for 30 minutes daily",
+                "progress": "10%",
+                "due_date": "2025-03-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal80",
+            "goal_name": "Build a Treehouse",
+            "goal_description": "Create a fun and relaxing space in a tree.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Gather materials and tools",
+                "progress": "40%",
+                "due_date": "2025-04-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Construct and decorate the treehouse",
+                "progress": "0%",
+                "due_date": "2025-06-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal81",
+            "goal_name": "Learn Baking",
+            "goal_description": "Master basic baking techniques and recipes.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Bake cookies and cupcakes",
+                "progress": "20%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Experiment with bread and pies",
+                "progress": "0%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal82",
+            "goal_name": "Learn to Swim",
+            "goal_description": "Overcome fear of water and become confident in swimming.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Sign up for swimming lessons",
+                "progress": "100%",
+                "due_date": "2025-02-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Practice swimming weekly",
+                "progress": "10%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal83",
+            "goal_name": "Learn to Play the Drums",
+            "goal_description": "Master basic drum rhythms and beats.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Take beginner drum lessons",
+                "progress": "20%",
+                "due_date": "2025-05-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Practice for 30 minutes daily",
+                "progress": "10%",
+                "due_date": "2025-07-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal84",
+            "goal_name": "Explore Astronomy",
+            "goal_description": "Learn about stars, planets, and galaxies.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Attend a stargazing event",
+                "progress": "100%",
+                "due_date": "2025-03-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Learn to use a telescope",
+                "progress": "0%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal85",
+            "goal_name": "Learn 3D Modeling",
+            "goal_description": "Master tools like Blender to create 3D designs.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Complete a Blender basics tutorial",
+                "progress": "10%",
+                "due_date": "2025-04-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Create 3 models as practice",
+                "progress": "0%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal86",
+            "goal_name": "Learn a Martial Art",
+            "goal_description": "Develop self-defense skills and discipline.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Choose a martial art and join classes",
+                "progress": "100%",
+                "due_date": "2025-02-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Practice 3 times weekly",
+                "progress": "20%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal87",
+            "goal_name": "Build a Gaming PC",
+            "goal_description": "Assemble a custom-built PC for gaming and performance.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Research and purchase components",
+                "progress": "70%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Assemble and install software",
+                "progress": "0%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal88",
+            "goal_name": "Create a Family Tree",
+            "goal_description": "Trace your ancestry and document family history.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Interview family members for information",
+                "progress": "50%",
+                "due_date": "2025-06-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Organize and design the family tree",
+                "progress": "10%",
+                "due_date": "2025-08-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal89",
+            "goal_name": "Learn Website Development",
+            "goal_description": "Build and launch a professional website.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Complete an HTML and CSS course",
+                "progress": "30%",
+                "due_date": "2025-02-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Create a website portfolio",
+                "progress": "0%",
+                "due_date": "2025-04-30"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal90",
+            "goal_name": "Volunteer in a Community Project",
+            "goal_description": "Give back to your community by helping others.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Research local projects to join",
+                "progress": "20%",
+                "due_date": "2025-01-31"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Participate for at least 20 hours",
+                "progress": "0%",
+                "due_date": "2025-03-31"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal91",
+            "goal_name": "Learn Creative Writing",
+            "goal_description": "Explore storytelling and write short stories or poems.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Join a creative writing workshop",
+                "progress": "10%",
+                "due_date": "2025-02-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Write 5 short stories or poems",
+                "progress": "0%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal92",
+            "goal_name": "Explore Local Hiking Trails",
+            "goal_description": "Enjoy nature by hiking nearby trails.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Research 5 local trails",
+                "progress": "100%",
+                "due_date": "2025-01-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Hike at least 3 trails",
+                "progress": "10%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal93",
+            "goal_name": "Start a Podcast",
+            "goal_description": "Share your voice and ideas on a public platform.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Choose a topic and record an episode",
+                "progress": "50%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Publish 5 episodes",
+                "progress": "0%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal94",
+            "goal_name": "Learn Aromatherapy",
+            "goal_description": "Understand the use of essential oils for wellness.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Take an aromatherapy basics course",
+                "progress": "0%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Create 3 DIY essential oil blends",
+                "progress": "0%",
+                "due_date": "2025-04-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal95",
+            "goal_name": "Attend a Music Festival",
+            "goal_description": "Experience live performances and enjoy music.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Book tickets and plan itinerary",
+                "progress": "50%",
+                "due_date": "2025-05-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Attend the event and capture moments",
+                "progress": "0%",
+                "due_date": "2025-06-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal96",
+            "goal_name": "Bake a Tiered Cake",
+            "goal_description": "Master the art of baking and decorating a cake.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Practice basic baking recipes",
+                "progress": "30%",
+                "due_date": "2025-03-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Create and decorate a tiered cake",
+                "progress": "0%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal97",
+            "goal_name": "Learn Video Editing",
+            "goal_description": "Create polished and professional videos.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Learn basic video editing tools",
+                "progress": "20%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Edit 3 practice videos",
+                "progress": "0%",
+                "due_date": "2025-05-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal98",
+            "goal_name": "Learn Ice Skating",
+            "goal_description": "Become proficient in basic ice skating techniques.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Attend 5 ice skating lessons",
+                "progress": "0%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Practice balance and turns independently",
+                "progress": "0%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal99",
+            "goal_name": "Learn Basic Knitting",
+            "goal_description": "Create simple knit items like scarves or hats.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Learn basic stitches and techniques",
+                "progress": "10%",
+                "due_date": "2025-02-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Knit a small scarf or beanie",
+                "progress": "0%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal100",
+            "goal_name": "Visit a Historical Site",
+            "goal_description": "Explore and learn about the history of a landmark.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Research nearby historical sites",
+                "progress": "50%",
+                "due_date": "2025-02-20"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Plan a visit and take notes",
+                "progress": "0%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal101",
+            "goal_name": "Complete a Puzzle",
+            "goal_description": "Assemble a 1000-piece puzzle.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Sort puzzle pieces by edges and colors",
+                "progress": "20%",
+                "due_date": "2025-02-25"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Complete the puzzle frame",
+                "progress": "10%",
+                "due_date": "2025-03-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal102",
+            "goal_name": "Organize a Garage Sale",
+            "goal_description": "Declutter by selling unused items.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Sort items to sell and price them",
+                "progress": "50%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Host the sale and donate unsold items",
+                "progress": "0%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal103",
+            "goal_name": "Write a Short Story",
+            "goal_description": "Create a fictional story of 3000 words.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Draft an outline and characters",
+                "progress": "20%",
+                "due_date": "2025-02-10"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Write the first draft and edit",
+                "progress": "0%",
+                "due_date": "2025-03-05"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal104",
+            "goal_name": "Learn Origami",
+            "goal_description": "Master folding paper into creative shapes.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Learn 10 basic origami designs",
+                "progress": "0%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Create a themed origami display",
+                "progress": "0%",
+                "due_date": "2025-04-10"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal105",
+            "goal_name": "Plan a Hiking Trip",
+            "goal_description": "Explore nature by organizing a hike.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Select a trail and pack essentials",
+                "progress": "30%",
+                "due_date": "2025-04-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Complete the hike with a group",
+                "progress": "0%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal106",
+            "goal_name": "Learn a Magic Trick",
+            "goal_description": "Impress others with a simple magic routine.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Watch tutorials on basic magic tricks",
+                "progress": "10%",
+                "due_date": "2025-02-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Practice and perform for friends",
+                "progress": "0%",
+                "due_date": "2025-03-10"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal107",
+            "goal_name": "Learn to Juggle",
+            "goal_description": "Develop hand-eye coordination through juggling.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Practice juggling with 2 objects",
+                "progress": "20%",
+                "due_date": "2025-02-20"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Juggle 3 objects for 30 seconds",
+                "progress": "0%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal108",
+            "goal_name": "Learn Flower Arrangement",
+            "goal_description": "Create beautiful floral designs.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Learn basic techniques through tutorials",
+                "progress": "0%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Design 3 arrangements for events",
+                "progress": "0%",
+                "due_date": "2025-05-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal109",
+            "goal_name": "Learn Photo Editing",
+            "goal_description": "Enhance photography through editing software.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Master a photo editing app",
+                "progress": "20%",
+                "due_date": "2025-02-25"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Edit 10 photos for a portfolio",
+                "progress": "0%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal110",
+            "goal_name": "Learn a Martial Art",
+            "goal_description": "Develop discipline and self-defense skills.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Attend 5 beginner martial arts classes",
+                "progress": "10%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Master 5 basic techniques",
+                "progress": "0%",
+                "due_date": "2025-05-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal111",
+            "goal_name": "Create a Vision Board",
+            "goal_description": "Visualize goals and aspirations through a board.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Collect images and materials",
+                "progress": "50%",
+                "due_date": "2025-02-28"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Assemble and display the board",
+                "progress": "10%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal112",
+            "goal_name": "Organize a Picnic",
+            "goal_description": "Plan a relaxing day outdoors with friends or family.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Choose a location and make a guest list",
+                "progress": "40%",
+                "due_date": "2025-02-28"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Prepare snacks and games",
+                "progress": "0%",
+                "due_date": "2025-03-05"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal113",
+            "goal_name": "Learn Digital Illustration",
+            "goal_description": "Create artwork using a drawing tablet or software.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Watch tutorials on digital art basics",
+                "progress": "10%",
+                "due_date": "2025-03-10"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Complete 3 practice illustrations",
+                "progress": "0%",
+                "due_date": "2025-04-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal114",
+            "goal_name": "Volunteer at an Animal Shelter",
+            "goal_description": "Support the care of animals in need.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Contact local shelters and sign up",
+                "progress": "0%",
+                "due_date": "2025-02-20"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Volunteer 5 hours at the shelter",
+                "progress": "0%",
+                "due_date": "2025-03-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal115",
+            "goal_name": "Host a Movie Night",
+            "goal_description": "Invite friends for a themed movie evening.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Select a theme and create a guest list",
+                "progress": "20%",
+                "due_date": "2025-03-01"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Prepare snacks and set up seating",
+                "progress": "0%",
+                "due_date": "2025-03-10"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal115",
+            "goal_name": "Learn Gardening Basics",
+            "goal_description": "Grow and care for plants successfully.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Plant 3 easy-to-grow herbs",
+                "progress": "0%",
+                "due_date": "2025-03-15"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Water and maintain plants daily",
+                "progress": "0%",
+                "due_date": "2025-04-15"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal116",
+            "goal_name": "Bake a Cake from Scratch",
+            "goal_description": "Learn to bake and decorate a homemade cake.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Watch tutorials and choose a recipe",
+                "progress": "10%",
+                "due_date": "2025-02-25"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Bake and decorate the cake",
+                "progress": "0%",
+                "due_date": "2025-03-10"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal117",
+            "goal_name": "Learn Basic Woodworking",
+            "goal_description": "Create simple wooden items or repairs.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Understand tools and safety measures",
+                "progress": "0%",
+                "due_date": "2025-02-28"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Build a simple wooden shelf",
+                "progress": "0%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal117",
+            "goal_name": "Start a Gratitude Journal",
+            "goal_description": "Document things you're grateful for daily.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Write 5 entries over one week",
+                "progress": "0%",
+                "due_date": "2025-03-07"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Reflect on entries weekly",
+                "progress": "0%",
+                "due_date": "2025-04-01"
+              }
+            ]
+          },
+          {
+            "goal_id": "goal118",
+            "goal_name": "Explore Local Cuisine",
+            "goal_description": "Try dishes from 5 different local restaurants.",
+            "tasks": [
+              {
+                "task_id": "task1",
+                "task_name": "Research popular local restaurants",
+                "progress": "10%",
+                "due_date": "2025-02-28"
+              },
+              {
+                "task_id": "task2",
+                "task_name": "Dine at 3 places with friends or family",
+                "progress": "0%",
+                "due_date": "2025-03-20"
+              }
+            ]
+          },
+          {
+            "goal_id": "61",
+            "goal_name": "Become a Freelance Graphic Designer",
+            "goal_description": "Launch a graphic design freelance business within 3 months.",
+            "due_date": "2025-03-31",
+            "tasks": [
+              {
+                "task_id": "1",
+                "task_name": "Build portfolio with 5 design samples",
+                "task_description": "Create a portfolio showcasing 5 of your best design works.",
+                "progress": "60%",
+                "due_date": "2025-02-28"
+              },
+              {
+                "task_id": "2",
+                "task_name": "Create profiles on freelance websites",
+                "task_description": "Create profiles on platforms like Fiverr and Upwork.",
+                "progress": "100%",
+                "due_date": "2025-01-30"
+              },
+              {
+                "task_id": "3",
+                "task_name": "Pitch to at least 10 potential clients",
+                "task_description": "Send proposals to at least 10 potential clients.",
+                "progress": "20%",
+                "due_date": "2025-03-31"
+              }
+            ]
+          }
+        ],
+        "users": [
+          {
+            "user_id": "1",
+            "user_name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "goals": ["6", "7", "8"]
+          },
+          {
+            "user_id": "2",
+            "user_name": "Mark Stevens",
+            "email": "mark.stevens@example.com",
+            "goals": ["9", "10"]
+          },
+      {
+        "user_id": "1",
+        "user_name": "John Doe",
+        "email": "john.doe@example.com",
+        "goals": ["1", "2", "3"]
+      },
+      {
+        "user_id": "2",
+        "user_name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "goals": ["4", "5"]
+      }
+    ]
+}
+    
+  
+  
