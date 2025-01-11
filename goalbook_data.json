@@ -67,7 +67,7 @@
         ]
       },
       {
-        "goal_id": "goal4",
+        "goal_id": "4",
         "goal_name": "Start a Side Hustle",
         "goal_description": "Launch an online store.",
         "tasks": [
@@ -80,7 +80,7 @@
         ]
       },
       {
-        "goal_id": "goal5",
+        "goal_id": "5",
         "goal_name": "Improve Cooking Skills",
         "goal_description": "Learn 5 new recipes per month.",
         "tasks": [
@@ -93,7 +93,7 @@
         ]
       },
       {
-        "goal_id": "goal6",
+        "goal_id": "6",
         "goal_name": "Volunteer",
         "goal_description": "Spend time volunteering at a local shelter.",
         "tasks": [
@@ -106,7 +106,7 @@
         ]
       },
       {
-        "goal_id": "goal7",
+        "goal_id": "7",
         "goal_name": "Travel to 5 New Cities",
         "goal_description": "Visit and explore 5 cities you've never been to.",
         "tasks": [
@@ -119,7 +119,7 @@
         ]
       },
       {
-        "goal_id": "goal8",
+        "goal_id": "8",
         "goal_name": "Learn to Meditate",
         "goal_description": "Develop a daily meditation habit.",
         "tasks": [
@@ -204,6 +204,26 @@
               }
             ]
           },
+        {
+    "goal_id": "goal12",
+    "goal_name": "Write a Fictional Short Story",
+    "goal_description": "Create a compelling narrative and submit it to a magazine.",
+    "tasks": [
+      {
+        "task_id": "task1",
+        "task_name": "Brainstorm plot ideas.",
+        "progress": "15%",
+        "due_date": "2025-07-10"
+      },
+      {
+        "task_id": "task2",
+        "task_name": "Write the first draft.",
+        "progress": "0%",
+        "due_date": "2025-07-20"
+      }
+    ]
+  },
+        
           {
             "goal_id": "13",
             "goal_name": "Improve Public Speaking",
